@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+    <link rel="stylesheet" href="./style.css">
+<head>
+    <title>School Newsletter</title>
+</head>
+<body>
+    <center>
+<!--pseudo body table-->
+    <table border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" width="99%">
+        <tbody>
+            <tr>
+                <td align="left">
+Friday Flyer 
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<!--close psuedo body table-->
+
+<!--start of email-->
+<table border="0" cellpadding="0" cellspace="0" bgcolor="transparent" width="550">
+    <tbody>
+        <tr>
+            <td width="550" height="95" valign="top" bgcolor="#ffffff">
+
+<!--email content goes here-->
+
+<table border="1" cellpadding="0" cellspacing="0" bgcolor="transparent" width="550">
+    <tbody>
+        <tr>
+            <td width="550" height="95" valign="top" bgcolor="#3588a8">
+                <imgsrc=""></td>
+        </tr>
+        <tr>
+            <td align="center" width="550" height="28" bgcolor="#3588a8" valign="top">
+            
+Cooperative Children's Center
+
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="550" height="500" valign="top">
+
+Friday July 5th 2019
+
+<!--3x2 product table goes here-->
+
+<table border="1" cellpadding="0" cellspacing="30" width="500">
+    <tbody>
+        <tr>
+        
+        <td align="left" width="135" height="165" bgcolor="#ffffff" valign="top">
+          <div id="boxone">Announcements:</div>
+              
+              <br>Each class went on a field trip this week and it was SO good to get out! 
+              <br><br>The Sun Room went to Cal Anderson Park for a picnic, the Star Room went to the Burke, and the Moon 
+              Comet went to the Locks! 
+              <br><br>We are looking forward to more adventures and always welcome family members to tag along, help out and have some fun!
+            </td>
+          
+        <td align="left" width="135" height="165" bgcolor="#ffffff" valign="top">
+            <div id="boxtwo">Upcomng Events:</div>
+              Did you know that the 2nd weekend in June is Washington State's Free Fishing weekend? If that sounds like something fun, 
+              check it out! 
+              <a href="https://www.takemefishing.org/washington/"></a> 
+              <br><br>Some great indoor activities might be catching a 
+              show at one of the many children's theaters around town! Charlie Brown is playing at Seattle Musical Theater: 
+              <a href="http://seattlemusicaltheatre.org/good-man/"></ahref> Tickets start at $20. 
+              <br><br>Perhaps a little Howling 
+              with the Wolves event at the Urban Horticulture Center its free and all ages! 
+              <a href="https://impactflow.com/event/howling-for-wolves-8092"></ahref> but it does start at 9am on Saturday. 
+              <br><br>Or you can check out the Family Nature Class on the other side at the Arboretum! If your 0-5 children 
+              are interested in Music, you can head down to Benoraya Hall for 35 minutes of fun for a Tiny Tots Concert with 
+              The 3 Little Pigs!! <a href="https://www.seattlesymphony.org/concerttickets/calendar/2017-2018/symphony/tt5"></ahref> 
+
+
+            </td>
+        <td align="left" width="135" height="165" bgcolor="#ffffff" valign="top">
+              <div id="boxthree">Friendly Reminders:</div>
+                As our children are growing, so is their appetite! We have noticed more friends needing supplement food after 
+              they finish their lunches from home. Please check in with your teacher and please make sure that 
+              all food groups are included; these friends burn lots of energy each day, some day more than others! 
+              Here is a chart that may be helpful:
+              <a href="https://www.healthychildren.org/English/healthy-living/nutrition/Pages/Portions-and-Serving-Sizes.aspx"></a>
+            </td>
+            
+        </tr>
+    </tbody>
+</table>
+
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<!--footer table-->
+
+<table border="1" cellpadding="0" cellspacing="0" bgcolor="transparent" width="550">
+    <tbody>
+        <tr>
+            <td align="right" width="550" height="65" valign="top">
+                <img src=""/>
+Meghan Finney
+<br>Program Supervisor: Cooperative Children's Center
+<br>4759 15th Ave NE Seattle WA 98105
+<br>206.522.5388 www.coopchild.org 
+          </td>
+        </tr>
+    </tbody>
+</table>
+
+<!--content ends-->
+
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
